@@ -4,4 +4,3 @@ streamlit
 torch
 torchvision
 plotly
-io
