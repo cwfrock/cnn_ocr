@@ -4,5 +4,5 @@ streamlit
 torch
 torchvision
 plotly
-PIL
+pillow
 streamlit-drawable-canvas
