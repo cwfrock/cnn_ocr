@@ -89,7 +89,7 @@ else:
 
 # ========== Load Torch model and predict ==========
 
-model = torch.load('C://Users//cwfro//OneDrive - cfrock//Machine Learning Resources//streamlit_apps//mnist_number_recognition_app//mnist_model.pt')
+model = torch.load('mnist_model.pt')
     #model.eval()
 
 if input_type == "Upload a .png!":
