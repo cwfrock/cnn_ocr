@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+torch
+torchvision
+plotly
+io
