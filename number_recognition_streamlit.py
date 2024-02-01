@@ -5,7 +5,6 @@ import torch
 import torchvision
 import plotly.express as px
 from torchvision import transforms
-import io
 from PIL import Image
 from torchvision.io import read_image
 from streamlit_drawable_canvas import st_canvas
